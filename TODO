@@ -12,6 +12,7 @@ Enhancements :
 
 - Docker :
   - Dockerfile
+  - split to 3 containers : ossec-server / nginx / fpm
   - docker-compose.yml
   - Documentation
 
