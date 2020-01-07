@@ -1,0 +1,17 @@
+From GH Issues :
+
+- Download link in README
+- It would be good to be able to create an Agent Auth Key from the WUI.
+- The rules links in ossec-wui are broken.
+- is nginx supported -> A doc for Apache, Nginx, Docker under some distribs
+- Report in pdf or html
+- Undefined function split() in os_lib_agent.php 111 Or Main/Search page broken.
+- search.php and stats.php stats epoch time
+
+Enhancements :
+
+- Docker :
+  - Dockerfile
+  - docker-compose.yml
+  - Documentation
+
